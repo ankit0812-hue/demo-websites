@@ -1,0 +1,26 @@
+
+ #firstdiv {
+ 	background:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("banner.jpg");
+     height: 700px;
+ }
+ #seconddiv {
+ 	text-align: center;
+ 	font-size: 30px;
+ 	font-family: Alegreya SC;
+ 	padding: 250px 20px 250px 0;
+ 	position: relative;
+ 	color: white;
+}
+#thirddiv {
+	display:flex;
+}
+#fourthdiv {
+	background-color: #3282b8;
+	display: flex;
+}
+#fifthdiv {
+	text-align: center;
+}
+#sixthdiv {
+	display: flex;
+}

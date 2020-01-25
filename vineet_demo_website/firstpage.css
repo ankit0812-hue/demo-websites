@@ -1,0 +1,162 @@
+body {
+    margin: 0px;    
+    padding: 0px;
+}
+.firstdiv {
+      display: flex;
+}
+.sidediv {
+    width: 200px;
+    background-image: url('sidebar.jpg');
+    opacity: 0.9;
+    margin: 0px;
+    position: fixed;
+    height: 100%;
+    margin: 0px 0px 0px 0px;
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.8);
+}
+.firstpara {
+    font-size: 18px;
+    padding-left: 40px;
+}
+.side2 {
+    border-top: solid 1px #758184;
+    padding-top: 7px;
+}
+.para {
+    padding-left: 20px;
+    cursor: pointer;
+}
+.maincontent {
+    position: relative;
+    padding-left: 200px;
+}
+.first {
+    padding-top: 30px;
+    padding-left: 30px;
+    position: relative;
+    float: left;
+}
+.second {
+  float: left;
+  padding: 46px 0 50px 900px;
+  position: relative;
+}
+
+.firstflex {
+    display: flex;
+    clear: both;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.one {
+    margin: 0px 30px;
+    border: solid 1px #ffb99a;
+    border-radius: 6px;
+    width: 250px;
+    position: relative;
+}
+.number {
+    font-size: 20px;
+    text-align: right;
+    padding-right: 10px;
+}
+.text {
+    text-align: right;
+    font-size: 15px;
+    padding-right: 10px;
+}
+.lastpara {
+    font-size: 14px;
+    border-top: solid 1px #ffb99a;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.one1, .one2,.one3,.one4 {
+    left: 20px;
+    top: -30px;
+    background-color: #fed39f;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    border-radius: 3px;
+}
+.one2,.one4 {
+    background-color: #ffb99a;
+}
+.secondflex {
+    display: flex;
+    padding-left: 30px;
+    padding-top: 100px;
+}
+.second2 {
+    margin: 0px 30px;
+    border: solid 1px #ffb99a;
+    border-radius: 6px;
+    width: 350px;
+    position: relative;
+}
+.bigpara,.smallpara {
+    padding-left: 10px;
+    
+}
+.bigpara {
+    padding-top: 170px;
+    font-size: 20px;
+}
+.smallpara {
+    font-size: 15px;
+}
+.second2_2,.second2_1 {
+    width: 330px;
+    height: 190px;
+    left: 10px;
+    top: -20px;
+    position: absolute;
+    background-color: #fed39f;
+    border-radius: 3px;
+}
+.second2_1 {
+    background-color: #ffb99a;
+}
+.thirdflex {
+    display: flex;
+    padding-left: 30px;
+    padding-top: 100px;
+}
+.last {
+    margin: 0px 30px;
+    border: solid 1px #ffb99a;
+    border-radius: 6px;
+    width: 570px;
+    position: relative;
+}
+.last p{
+    padding-left: 10px;
+    
+}
+.para {
+    padding-top: 70px;
+}
+.last1,.last2 {
+    position: absolute;
+    border-radius: 3px;
+    width: 530px;
+    background-color: #fed39f;
+    left: 20px;
+    top: -20px;
+}
+.last2 {
+    background-color: #ffb99a;
+}
+.final {
+    padding-left: 30px;
+    padding-top: 50px;
+    margin: 0px 30px;
+    
+}
+.final p {
+    border-top: solid 1px #fed39f;
+    padding-top: 20px;
+    text-align: center;
+}
